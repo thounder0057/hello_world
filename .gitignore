@@ -1,0 +1,13 @@
+# ESP-IDF build output
+build/
+sdkconfig
+sdkconfig.old
+*.bin
+*.elf
+*.map
+flash_project_args
+# VSCode 临时文件
+.vscode/
+# 系统文件
+.DS_Store
+Thumbs.db
